@@ -1,0 +1,8 @@
+{
+  "name": "movieql2020",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dong-hyi-seo/movieql.git",
+  "author": "dhseo <dhseo@antock.com>",
+  "license": "MIT"
+}
